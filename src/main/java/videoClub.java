@@ -7,6 +7,6 @@
  *
  * @author sanx4
  */
-public class videoClub {
-    
+public class videoCclub {
+    private int hola;
 }
