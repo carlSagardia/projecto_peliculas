@@ -4,7 +4,7 @@ public class Arriendos{
     private String FechaArriendo;
     private String FechaDevolucion;
     
-    
+    //HOLA CHAT
     public Arriendos (String sugerencias, String Pelicula, String FechaArriendo, String FechaDevolucion){
         this.sugerencias = sugerencias;
         this.Pelicula = Pelicula;
